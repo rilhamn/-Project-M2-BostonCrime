@@ -4,7 +4,7 @@ Dataset yang digunakan: Link = https://www.kaggle.com/datasets/AnalyzeBoston/cri
 
 Boston Crime Dataset
 
-Laporan insiden kejahatan disediakan oleh Departemen Kepolisian Boston (BPD) untuk mendokumentasikan detail awal seputar insiden yang ditanggapi oleh petugas BPD. Dari dataset tersebut, penganalisis lebih lanjut dilkukan guna mendapatkan insight kriminalitas di Boston. Dengan insight ini, diharapkan pihak kepolisian Boston bisa melakukan pencegahan dan penanganan tindak kriminal secara efektif. 
+Laporan insiden kejahatan didokumentas oleh Departemen Kepolisian Boston (BPD) dalam sebuah dataset. Dari dataset tersebut, penganalisis lebih lanjut dilkukan guna mendapatkan insight kriminalitas di Boston. Dengan insight ini, diharapkan pihak kepolisian Boston bisa melakukan pencegahan dan penanganan tindak kriminal secara efektif. 
 
 Projek ini akan berfokus pada analisis pola kriminalitas di Boston dengan melihat fitur-fitur pendukung (kolom) pada dataset. Dimulai dari general analysis hingga spesific analysis yang dimana akan menganalisis tindak kriminal yang berkategori berat dan sedang. Objektif dari projek ini diantaranya adalah:
 - Meninjau jenis tindak kejahatan di Boston
